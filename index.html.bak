@@ -13,15 +13,16 @@
       rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="css/style.css">
   </head>
-  <body class="My-bg-col mx-auto p-2" style="                          width:800px;">
+  <body class="My-bg-col mx-auto p-2" style="                           width:800px;">
     <div class="container">
       <div class="row my-color-top">
-        <div class="col-6" style="text-align: center;">
-          <p><img src="images/my.jpeg" alt="My picture" class="rounded-circle rounded mx-auto d-block"
-              style="width: 180px; height: 180px;">640512223</p>
+        <div class="col-6" style="text-align: center;"> <img src="images/my.jpeg"
+            alt="My picture" class="rounded-circle rounded mx-auto d-block" style="width: 180px; height: 180px;">
         </div>
         <div class="col-6 my-name">
           <h1> Suphaporn Ponkai </h1>
+          <h1> </h1>
+          <h1> </h1>
           <h1> </h1>
           <h1> สุภาพร พลไกร </h1>
         </div>
@@ -69,7 +70,7 @@
               alt="" style="width: 49px; height: 49px;">การศึกษา </h3>
           <br>
           <div class="row">
-            <div class="col-md-3 ">
+            <div class="col-md-3  ">
               <p class="text-center"> <a href="https://watprangoen.ac.th/home.php?School_ID=1012230101"><img
                     src="images/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99.jpg"
                     class="rounded-circle rounded mx-auto d-block" alt="ตราโรงเรียนวัดพระเงิน"
