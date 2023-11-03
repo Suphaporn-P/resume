@@ -11,7 +11,7 @@ p{font-family: 'Niramit', sans-serif;
 color:#605d51;}
 
 .My-name{text-transform: uppercase;
-font-size:800px;
+font-size:600px;
 line-height:1.6px;
 }
 
@@ -30,3 +30,6 @@ line-height:1.6px;
 .my-col-chart {
     background-color:grey;
 }
+
+h6{font-family: 'Niramit', sans-serif;
+color:#605d51;}
